@@ -1,5 +1,5 @@
 # Kyoto-Chain
-Kyoto chain on Arbitrum
+Kyoto Chain on Arbitrum
 
 
 ```
